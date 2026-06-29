@@ -100,4 +100,3 @@ Suggestions and improvements are always welcome. Feel free to fork the repositor
 
 ---
 
-**Created by:** Ghulam Jillani
