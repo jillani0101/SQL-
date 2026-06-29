@@ -1,32 +1,103 @@
-# Skill-Based Project Collaboration System
+# SQL Practice Repository
 
-A MySQL database project designed for a platform where users can collaborate on projects based on their skills.
+A comprehensive collection of SQL queries covering fundamental to advanced database concepts. This repository is designed for students, beginners, and anyone looking to improve their SQL skills through practical examples.
 
-# Features
-- User registration and profile management
-- Skill management system
-- Project creation and management
-- Project applications and status tracking
-- User-to-user messaging
-- Skill-based project matching
+## 📚 Topics Covered
 
-# Database Design
-The database is normalized up to:
+### 🔹 Basic SQL
 
-- First Normal Form (1NF)
-- Second Normal Form (2NF)
-- Third Normal Form (3NF)
+* SELECT Statement
+* WHERE Clause
+* ORDER BY
+* DISTINCT
+* LIMIT
 
-# Project Files
-- `skillcollab.sql` → Database schema and sample data
-- `Normalization.docx` → Normalization analysis document
-- `Dataflow.docx` → Dataflow description document
+### 🔹 Filtering & Conditions
 
-# Technologies Used
-- MySQL
-- SQL
-- Relational Database Design
+* AND, OR, NOT
+* BETWEEN
+* IN
+* LIKE
+* IS NULL
 
-# Author
-Ghulam Jillani
-abdurehman
+### 🔹 Data Manipulation (DML)
+
+* INSERT
+* UPDATE
+* DELETE
+
+### 🔹 Aggregate Functions
+
+* COUNT()
+* SUM()
+* AVG()
+* MIN()
+* MAX()
+
+### 🔹 Grouping
+
+* GROUP BY
+* HAVING
+
+### 🔹 Joins
+
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* FULL OUTER JOIN
+* SELF JOIN
+
+### 🔹 Subqueries
+
+* Single Row Subqueries
+* Multiple Row Subqueries
+* Correlated Subqueries
+
+### 🔹 Advanced SQL
+
+* EXISTS & NOT EXISTS
+* CASE Statement
+* Views
+* Constraints
+* Nested Queries
+
+## 🎯 Purpose
+
+This repository serves as a practical SQL reference for:
+
+* Students learning SQL
+* Database Management System (DBMS) courses
+* Practice before exams
+* Improving SQL problem-solving skills
+
+## 🛠️ Database
+
+The SQL queries are written using standard SQL syntax and are compatible with most relational database systems such as:
+
+* MySQL
+* SQL Server
+  
+## 📁 Repository Structure
+
+```text
+SQL-Practice/
+│── SELECT/
+│── INSERT/
+│── UPDATE/
+│── DELETE/
+│── WHERE/
+│── ORDER_BY/
+│── GROUP_BY/
+│── JOINS/
+│── SUBQUERIES/
+│── AGGREGATE_FUNCTIONS/
+└── README.md
+```
+
+## 🤝 Contributions
+
+Suggestions and improvements are always welcome. Feel free to fork the repository and submit a pull request.
+
+---
+
+**Created by:** Ghulam Jillani
